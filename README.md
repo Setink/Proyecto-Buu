@@ -1,3 +1,3 @@
 # Proyecto-Buu
 
-Puedes mejorarlo com quieras 
+Puedes mejorarlo como quieras 
